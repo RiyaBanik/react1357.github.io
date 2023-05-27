@@ -1,8 +1,8 @@
 import React from 'react'
 import Restaurent from './component/Basics/restaurent'
-
+import UseState from './component/Hooks/useState';
 const App = () => {
-  return <Restaurent />
+  return <UseState />
 }
 
 export default App
